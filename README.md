@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src="elemento-de-linha.JPG" width="30" align="middle" />
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=1000&color=F7F7F7&cursorColor=0d1117&center=true&vCenter=true&width=220&v=5&lines=Hello%2C+world!;Fus+Ro+Dah!" alt="Typing SVG" align="middle" />
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=1000&color=F7F7F7&cursorColor=0d1117&center=true&vCenter=true&width=220&v=5&lines=Hello%2C+world!;Fus+Ro+Dah!" alt="Typing SVG" align="middle" /></a>
   <img src="elemento-de-linha.JPG" width="30" align="middle" />
 </p>
 
